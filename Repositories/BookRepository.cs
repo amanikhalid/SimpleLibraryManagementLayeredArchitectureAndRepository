@@ -8,5 +8,6 @@ namespace SimpleLibraryManagementLayeredArchitectureAndRepository.Repositories
 {
     class BookRepository
     {
+
     }
 }

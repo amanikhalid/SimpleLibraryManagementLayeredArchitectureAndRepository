@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleLibraryManagementLayeredArchitectureAndRepository
 {
-    class FileContext
+    public static class FileContext
     {
     }
 }
